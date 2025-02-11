@@ -20,12 +20,12 @@ These are main tables:
 ![image](https://github.com/user-attachments/assets/1da4006e-51df-4e82-992f-e5ae1c148b1c)
 
 ## Key Metrics Tracked:
-✔ Total Revenue: $54.14M
-✔ Total Units Sold: 193,400
-✔ Profit Margin: 58% ($31.55M)
-✔ Average Order Value (AOV): $2,103
-✔ Customer Base: 15,266
-✔ In-Store vs. Online Sales: 79% In-Store, 21% Online
+- Total Revenue: $54.14M
+- Total Units Sold: 193,400
+- Profit Margin: 58% ($31.55M)
+- Average Order Value (AOV): $2,103
+- Customer Base: 15,266
+- In-Store vs. Online Sales: 79% In-Store, 21% Online
 
 ## Executive Summary 
 Rampa Electronics Retail Analysis with records between 2016 and 2020 reveals a total revenue of $54.14M, with the United States contributing the largest share (53% -> 29M), followed by UK (13% -> 7M) and Germany (10% -> 5M), France had the least revenue contribution of 1.5M (2% of overall sales). Revenue peaked in 2019 at $18.3M before declining by 50% in 2020, likely due to the pandemic: electronic devices were not a priority purchase during that moment.
