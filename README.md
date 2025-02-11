@@ -70,8 +70,7 @@ Delivery time fluctuates throughout the months, with 11 days at the highest in (
 
 
 **4. Online vs. In-Store AOV**   
-Instore and Online stores had quite similar AOV ($2117 and $2051) respectively.
-For Online store, male customers had a slightly higher AOV ($2088) , the opposite for instore where females customer's AOV ($2123)
+Instore and Online stores had quite similar AOV ($2117 and $2051) respectively. For Online store, male customers had a slightly higher AOV ($2088) , the opposite for instore where females customer's AOV ($2123).   
 ![image](https://github.com/user-attachments/assets/df7f7806-f2da-4038-88ef-8e2225ce2981)
 ![image](https://github.com/user-attachments/assets/5054b755-cac6-45b8-a9af-d0ece0b8fac9)
 
