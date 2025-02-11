@@ -1,4 +1,4 @@
-#Global Electronics Retail Analysis (2016–2020)
+# Global Electronics Retail Analysis (2016–2020)
 
 ## Background
 Rampa Electronics retailer runs a worldwide company to sell different electronics products for its customer. Data for Rampa was provided including details on the customer and location, product, sales and store. The main goal of this project is to create an interactive dashboard using PowerBI for managers to track the overall performance of the company.
