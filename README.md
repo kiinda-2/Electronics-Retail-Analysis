@@ -5,11 +5,11 @@ Rampa Electronics retailer runs a worldwide company to sell different electronic
 
 The primary objective of this project was to empower a them with deep, data-driven insights into their operations across multiple dimensions—sales, product performance, customer insights, and store performance. By integrating Power BI for data transformation, modelling and reporting, the project aimed to identify key growth opportunities, optimize resource allocation, and enhance customer satisfaction.
 
-##Assumptions
+## Assumptions
 - Delivery was done for orders that were online only and that in-store customers got their items in the stores they made their purchases.
 - Given that 2021 data was incomplete with only 2 months: Jan and Feb, the data from this period was exempted from the analysis.
   
-##Data Structure
+## Data Structure
 These are main tables:
 - Sales: Stores all transactional sales data, forming the core of revenue analysis.
 - Products: Stores product details, allowing analysis of sales performance by product category etc.
@@ -19,7 +19,7 @@ These are main tables:
 - Date Tables: That contains date information for orders and delivery.
 ![image](https://github.com/user-attachments/assets/1da4006e-51df-4e82-992f-e5ae1c148b1c)
 
-##Key Metrics Tracked:
+## Key Metrics Tracked:
 ✔ Total Revenue: $54.14M
 ✔ Total Units Sold: 193,400
 ✔ Profit Margin: 58% ($31.55M)
@@ -27,7 +27,7 @@ These are main tables:
 ✔ Customer Base: 15,266
 ✔ In-Store vs. Online Sales: 79% In-Store, 21% Online
 
-##Executive Summary 
+## Executive Summary 
 Rampa Electronics Retail Analysis with records between 2016 and 2020 reveals a total revenue of $54.14M, with the United States contributing the largest share (53% -> 29M), followed by UK (13% -> 7M) and Germany (10% -> 5M), France had the least revenue contribution of 1.5M (2% of overall sales). Revenue peaked in 2019 at $18.3M before declining by 50% in 2020, likely due to the pandemic: electronic devices were not a priority purchase during that moment.
 
 Computers (35%) and Home Appliances (20%) drove the highest sales, while USB Data Cables and Ball Bearings underperformed. In-store purchases accounted for 79% of total sales (43M), and had a higher Average Order Value (AOV) at $2,117 compared to online at $2,051.
@@ -38,17 +38,17 @@ Operational analysis indicates that average delivery times fluctuated between 3-
 
 To drive sustainable growth, the company should leverage forecasting to optimize inventory, enhance capabilities to reduce peak-season delivery delays, and expand digital marketing efforts to boost online sales conversion rates. Additionally, targeted loyalty programs for the 31-70 age group and strategies for underperforming products could maximize revenue potential.
 
-##Visualizations
-###Overview
+## Visualizations
+### Overview
 - ![image](https://github.com/user-attachments/assets/4a2beb65-115c-47ee-9f04-605527fea51e)
 
-###Product Performance
+### Product Performance
 - ![image](https://github.com/user-attachments/assets/caca268a-10b4-4a31-b265-bc8a3f6da587)
 
-###Customer
+### Customer
 - ![image](https://github.com/user-attachments/assets/29ab944d-0ed8-4f4c-8f14-7c58609b81cb)
 
-###Store Performance
+### Store Performance
 - ![image](https://github.com/user-attachments/assets/80211d40-14b4-4bc5-a728-4e109282fb3e)
 
 
@@ -75,7 +75,7 @@ For Online store, male customers had a slightly higher AOV ($2088) , the opposit
 - ![image](https://github.com/user-attachments/assets/df7f7806-f2da-4038-88ef-8e2225ce2981)
 - ![image](https://github.com/user-attachments/assets/5054b755-cac6-45b8-a9af-d0ece0b8fac9)
 
-##Recommendations
+## Recommendations
 - To improve online shopping experience to increase online conversion rates.
 - To expand fulfillment centers in high demand region to stabilize delivery times and reduce shipping delays especially during prak seasons to improve customer satisfaction.
 - To pair slow-moving products like cables with best-sellers: desktop PCs to increase sales efficiency.
