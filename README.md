@@ -61,11 +61,11 @@ Most Customers were from North America with most of them from United States with
 
 
 **2. Seasonal Trends**   
-- Revenue and orders had a positive correlation, when the revenue was high the number of orders was also high. Revenue and orders rose steadily and peaked at 2019 (18.3M and 9.1k orders). The months of December and February at their highest with over 7M in revenue and 3k orders while April saw a sharp decline (0.6M and 0.3k orders)
+Revenue and orders had a positive correlation, when the revenue was high the number of orders was also high. Revenue and orders rose steadily and peaked at 2019 (18.3M and 9.1k orders). The months of December and February at their highest with over 7M in revenue and 3k orders while April saw a sharp decline (0.6M and 0.3k orders)
 ![image](https://github.com/user-attachments/assets/8d436ad9-41d5-474d-b8df-40cbc84a93c2)
 
 **3. Delivery**   
-Delivery time fluctuates throughout the months, with 11 days at the highest in (February, March and June) and at the lowest in May with a waiting time of 3 days.
+Delivery time fluctuates throughout the months, with 11 days at the highest in (February, March and June) and at the lowest in May with a waiting time of 3 days.   
 ![image](https://github.com/user-attachments/assets/29484b8a-032d-460e-a9f5-1636e1c4e067)
 
 
