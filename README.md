@@ -52,24 +52,24 @@ To drive sustainable growth, the company should leverage forecasting to optimize
 ![image](https://github.com/user-attachments/assets/80211d40-14b4-4bc5-a728-4e109282fb3e)
 
 
-## Key Insights 
-**1. Popular Products and Customer Locations**
+## Key Insights   
+**1. Popular Products and Customer Locations**   
 Computers (35%) and Home Appliances (20%) drove the highest sales, while Games and Toys was the product category that was underperforming with sales of around 700k (1.3% of total sales).
 Most Customers were from North America with most of them from United States with the least coming from Europe in France.
 ![image](https://github.com/user-attachments/assets/462a4aa9-9f27-4e31-a821-274feca193ff)
 ![image](https://github.com/user-attachments/assets/6ba0be4a-3f8c-4bf7-9d0c-5f453c6fbd86)
 
 
-**2. Seasonal Trends**
+**2. Seasonal Trends**   
 - Revenue and orders had a positive correlation, when the revenue was high the number of orders was also high. Revenue and orders rose steadily and peaked at 2019 (18.3M and 9.1k orders). The months of December and February at their highest with over 7M in revenue and 3k orders while April saw a sharp decline (0.6M and 0.3k orders)
 ![image](https://github.com/user-attachments/assets/8d436ad9-41d5-474d-b8df-40cbc84a93c2)
 
-**3. Delivery Time Optimization**
+**3. Delivery**   
 Delivery time fluctuates throughout the months, with 11 days at the highest in (February, March and June) and at the lowest in May with a waiting time of 3 days.
 ![image](https://github.com/user-attachments/assets/29484b8a-032d-460e-a9f5-1636e1c4e067)
 
 
-**4. Online vs. In-Store AOV**
+**4. Online vs. In-Store AOV**   
 Instore and Online stores had quite similar AOV ($2117 and $2051) respectively.
 For Online store, male customers had a slightly higher AOV ($2088) , the opposite for instore where females customer's AOV ($2123)
 ![image](https://github.com/user-attachments/assets/df7f7806-f2da-4038-88ef-8e2225ce2981)
